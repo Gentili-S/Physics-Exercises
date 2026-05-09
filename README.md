@@ -5,7 +5,7 @@ Therefore, with this in mind, I hope that these exercises and ideas, which will 
 
 # How the files are named
 
-The pdf have a really weird name! I usually write my pdfs' name as the first letters of the article's name. If the file is specifically an exercise file then I add an "e-" in front of the name. If firthermore it is a book with many chapters I add a number after the "e", for example exercises taken from the second chapter of book Y are specified as "e2-Y.pdf". This causes some confusion, I know, but is really handy when I want a short, different name for each exercises related to that article.
+The pdf have a really weird name! I usually write my pdfs' name as the first letters of the article's name. If the file is specifically an exercise file then I add an "e-" in front of the name. If the exercises are taken from a book with many chapters I add a number after the "e", for example exercises taken from the second chapter of book Y are specified as "e2-Y.pdf". This causes some confusion, I know, but is really handy when I want a short, different name for each exercises related to that article.
 So that I make myself clear, here is a list of the already present names in the repo:
 
 - FLoRFIMPSaDR = "Four Lectures on RFIM, Parisi-Sourlas and Dimensional Reduction" ~ Rychov Slava
