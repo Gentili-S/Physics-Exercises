@@ -10,6 +10,7 @@ So that I make myself clear, here is a list of the already present names in the 
 
 - FLoRFIMPSaDR = "Four Lectures on RFIM, Parisi-Sourlas and Dimensional Reduction" ~ Rychov Slava
 - MC = "Modern Cosmology, second edition" ~ Dodelson S., Schmidt F.
+- tSMaB = "The Standard Model and Beyond" ~ Langacker P.
 
 # FAQ
 
